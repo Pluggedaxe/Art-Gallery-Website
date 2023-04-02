@@ -3,6 +3,14 @@
     src: url(font/Maragsâ-Display.woff) format('woff');
 }
 
+@font-face {
+    font-family: "Maragsa";
+    font-style: normal;
+    font-weight: 400;
+    src: local('Maragsâ-Display'),
+         url('web/Maragsâ-Display.otf') format('opentype');
+  }
+
 *{
     padding: 0;
     margin: 0;
@@ -12,6 +20,8 @@
     list-style: none;
     scroll-behavior: smooth;
 }
+
+
 
 :root{ /* kinda like creating your own color palette, and also custom font-size and stuff- universal / global variables*/
     --bg-color: #fff;

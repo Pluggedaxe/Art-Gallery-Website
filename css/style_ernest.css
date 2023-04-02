@@ -3,6 +3,14 @@
     src: url(font/Maragsâ-Display.woff) format('woff');
 }
 
+@font-face {
+    font-family: "Maragsa";
+    font-style: normal;
+    font-weight: 400;
+    src: local('Maragsâ-Display'),
+         url('web/Maragsâ-Display.otf') format('opentype');
+  }
+
 *{
     padding: 0;
     margin: 0;
