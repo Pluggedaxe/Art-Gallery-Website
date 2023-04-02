@@ -9,10 +9,6 @@ Welcome to Artisan Alliance, a website showcasing modern art from the Philippine
 - [Installation](#installation)
 - [Usage](#usage)
 
-##Usage
-
-Simply open the Home_page.html file in your web browser to view the website.
-
 ## Features
 
 - Responsive design
@@ -20,6 +16,10 @@ Simply open the Home_page.html file in your web browser to view the website.
 - Gallery of contemporary artworks by different artists
 - Navigation bar with dropdown menu
 - Hamburger icon for navigation on smaller screens
+
+##Usage
+
+Simply open the Home_page.html file in your web browser to view the website.
 
 ## Technologies Used
 
