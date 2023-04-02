@@ -8,6 +8,9 @@ Welcome to Artisan Alliance, a website showcasing modern art from the Philippine
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 
+Usage
+Simply open the Home_page.html file in your web browser to view the website.
+
 ## Features
 
 - Responsive design
@@ -32,6 +35,5 @@ Clone the repository using the following command:
 git clone https://github.com/<username>/artisan-alliance.git
 
 
-Usage
-Simply open the index.html file in your web browser to view the website.
+
 
