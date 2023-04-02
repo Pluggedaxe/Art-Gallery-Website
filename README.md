@@ -32,7 +32,7 @@ Simply open the Home_page.html file in your web browser to view the website.
 Clone the repository using the following command:
 
 ```bash
-git clone https://github.com/<username>/artisan-alliance.git
+https://github.com/Pluggedaxe/Artisan-Alliance.git
 
 
 
