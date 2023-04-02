@@ -7,9 +7,7 @@ Welcome to Artisan Alliance, a website showcasing modern art from the Philippine
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
