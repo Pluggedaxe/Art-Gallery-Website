@@ -5,11 +5,9 @@
 
 
 @font-face {
-    font-family: 'TagalogStylized-GOJeq';
-    font-style: normal;
+    font-family: 'Tagalog';
     src: local('TagalogStylized-GOJeq'),
-         url('web/TagalogStylized-GOJeq.ttf') format('truetype');
-         
+         url('../font/TagalogStylized-GOJeq.ttf') format('truetype');  
   }
 
   @font-face {
