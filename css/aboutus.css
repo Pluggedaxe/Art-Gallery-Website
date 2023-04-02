@@ -1,6 +1,6 @@
 @font-face{ /* Importing custom font */
     font-family:"Maragsa";
-    src: url(fonts/MaragsaÌ‚-Display.woff) format('woff');
+    src: url(font/Maragsâ-Display.woff) format('woff');
 }
 
 *{
