@@ -5,8 +5,8 @@
 
 @font-face {
     font-family: 'Maragsa';
-    src: url('font/Maragsâ-Display.otf') format('opentype');
-}
+    src: url('../font/Maragsâ-Display.otf') format('opentype');
+  }
 
 *{
     padding: 0;
