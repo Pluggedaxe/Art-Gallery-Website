@@ -264,12 +264,13 @@ header .sticky{
 }
 
 .Artwork1-description{
-  bottom: 500px;
-  left: 50px;
-  position: relative;
-  float: right;
-  font-family: "Maragsa";
-}
+    float: right;
+    position: relative;
+    top:450px;
+    right:50px;
+    font-family: "Maragsa";
+  }
+  
 
 .Artwork-2{
   position: relative;
