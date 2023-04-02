@@ -14,7 +14,7 @@
 
   @font-face {
     font-family: 'Maragsa';
-    src: url('font/Maragsâ-Display.woff') format('woff');
+    src: url('font/Maragsâ-Display.otf') format('opentype');
 }
 
 *{
