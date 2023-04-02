@@ -1,2 +1,45 @@
-# Art-Gallery-Website
-Finals Project for SEG22-CLD21-DSC21-WEB21-CSELEC03-Term2-SY22-23 (FRI-1100)
+# Artisan Alliance
+
+Welcome to Artisan Alliance, a website showcasing modern art from the Philippines. This is a static website built with HTML, CSS, and JavaScript.
+
+## Table of Contents
+
+- [Demo](#demo)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Demo
+
+Check out the live demo of the website [here](https://example.com).
+
+## Features
+
+- Responsive design
+- Image slider showcasing featured artists
+- Gallery of contemporary artworks by different artists
+- Navigation bar with dropdown menu
+- Hamburger icon for navigation on smaller screens
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- Boxicons for hamburger icon
+- Google Fonts for Barlow font
+
+## Installation
+
+Clone the repository using the following command:
+
+```bash
+git clone https://github.com/<username>/artisan-alliance.git
+
+
+Usage
+Simply open the index.html file in your web browser to view the website.
+
